@@ -1,0 +1,10 @@
+plan a trip to {shreyas yoga retreat|center_name}
+find a tour to {Vana Malsi Estate|center_name}
+suggest an iternary for {SwaSwara|center_name}
+tell me more about {AyurYoga Eco Ashram|center_name}
+i want to explore about {Ayurvedagram|center_name}
+find more about{Indus Valley Ayurvedic Center|center_name}
+make a travel plan for {Ayurvedagram|center_name}
+I'd like to visit{SwaSwara|center_name}
+browse travel plans for {shreya yoga retreat|center_name}
+suggest tour to {SwaSwara|center_name}
