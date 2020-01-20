@@ -4,3 +4,5 @@ what are the best centres of {Auraveda Wellness center|center_name}
 tell me some centres which have {mall|attractions} nearby
 do you know any place which can treat {back pain|health_issue}
 tell me about places with rating more than {4|rating}
+best centre near {mumbai|location}
+centre within {100 kilometers | distance} of {delhi|location}
