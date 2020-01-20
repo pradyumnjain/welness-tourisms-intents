@@ -1,0 +1,30 @@
+[
+    {
+        'center_name': 'xyz',
+        'description': ['Desc1','Desc2'],
+        'events':
+            [
+                {
+                    'event_name':'xyz',
+                    'start_time': 'DDMMYYYY',
+                    'end_time': 'DDMMYYYY',
+                    'duration': 10,
+                    'price': 1234,
+                    'specialities': ['d1','d2','d3']
+                },
+                {
+                    'event_name':'xyz',
+                    'start_time': 'DDMMYYYY',
+                    'end_time': 'DDMMYYYY',
+                    'duration': 10,
+                    'price': 1234,
+                    'specialities': ['d1','d2','d3']
+                }
+            ],
+        'reviews': ['r1','r2','r3'],
+        'location': "add1",
+        'rating': 5,
+        'website': "xyz.com",
+        'attractions': ['a1','a2','a3']
+    }
+]
