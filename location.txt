@@ -1,0 +1,9 @@
+find centers in {delhi|location}
+plan a trip to {bangalore|location}
+plan an iternary for {chandigarh| location}
+search for centers in {rishikesh|location}
+make a travel plan to visit {kerala|location}
+i wish to explore {goa|location}
+suggest a places to visit in {delhi|location}
+plan a tour to {mumbai|location}
+

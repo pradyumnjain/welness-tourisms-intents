@@ -1,0 +1,5 @@
+suggest centers with ratings {4|ratings} or more
+show centers with {5|ratings} rating
+find centers that have ratings {4|ratings} or more
+search places with {5|ratings} rating
+list out center with {5| ratings} rating
