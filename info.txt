@@ -1,2 +1,11 @@
-Tell me more about {Auraveda Wellness center|center_name}
-What is {Auraveda Wellness center|center_name}
+Tell me more about {Ayurveda Wellness center|center_name}
+What is {Ayurveda Wellness center|center_name} 
+What are the Facilities in {Ayurveda Wellness center|center_name}
+What are the Facilities provided in {Aurveda Wellness center|center_name}
+What are the treatments available in {Ayurveda Wellness center|center_name}
+What all can we do at {Ayurveda Welness center|center_name}
+Is {Ayurveda Welness center|center_name} disabled friendly?
+Does {Ayurveda Welness center|center_name} have a swimming pool?
+Does {Ayurveda Welness center|center_name} have a tennis court?
+Does {Ayurveda Welness center|center_name} have a gym?
+// Can we also do it like:  Does {Ayurveda Welness center|center_name} have a {gym|facility_name}
