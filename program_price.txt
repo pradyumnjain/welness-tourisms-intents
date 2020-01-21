@@ -1,0 +1,8 @@
+get me some best spots in {10000|program_price}
+Which programs are under {15000|program_price}
+List programs in range {20000|program_price} to {30000|program_price}
+Which programs are within {20000|program_price}
+Best program in {10000|program_price}
+Are there any programs below {5000|program_price}
+Which is the cheapest program available {"min"|program_price}
+Which is the most expensive program available{"max"|program_price}
