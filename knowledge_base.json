@@ -1,0 +1,158 @@
+[
+    {
+        'center_name': 'Ayurvedagram Heritage Wellness Center',
+        'description': ['Ayurvedagram Heritage Wellness Center is one India’s recognized wellness centers.','Spread in the 9 acres of land, this Ayurvedic healthcare spa renders a gentle touch through Ayurvedic remedies, Yoga, Pranayama, and a vegetarian Ayurvedic diet for their believers.'],
+        'programs': null,
+        'reviews': ['Very good place for relaxation and Ayurvedic massage. Serene environment and traditional architecture is an attraction.Food could have been better. Front office is a bit lethargic.',
+                'My experience with the Ayurvedagram has been terrific, it was a 1 week stay for me and was undergoing treatment for acidity and detoxification.',
+                'I had been there for my father's arthritis treatment.. He underwent pancakarma  treatment for about two weeks. The two weeks of stay in that place was fantastic.'],
+        'location':	['Hemandanahalli, Samethanahalli Post, Whitefield, Bengaluru, Karnataka 560067', {'latitude': 12.9688984, 'longitude': 77.7971444}]
+        'rating': 4.4,
+	'phone': 9845071990,
+        'website': "https://www.ayurvedagram.com/",
+        'attractions': ['HAL Heritage Centre and Aerospace Museum','Chinnappanahalli Lake Park','Nallurhalli Park']
+    },
+
+    {
+        'center_name': ' Indus Valley Ayurvedic Centre',
+        'description': ['Situated on the lap of Chamundi Hills, Indus valley Ayurvedic center is constructed on the basis of architectural and scriptures. ','More Than 22700 Visitors from over 65 Countries Worldwide'],
+        
+        'programs':
+            [
+                {
+                    'program_name':'Toxin Cleansing Therapy – Basti',
+                    'duration': 15,
+                    'duration_units': 'days',
+                    'price': 25000,
+                    'desc': ['Considered as the mother of all treatments, it cleanses the accumulated toxins from all the 3 doshas, Vata, Pitta and Kapha, especially Vata toxins, through the colon. Basti is also highly beneficial as a rejuvenating treatment, especially in convalescent periods.',
+                            'Medicated oil or ghee and an herbal decoction are given as an enema to clean the colon and increase the muscle tone. This procedure is usually applied for 8 to 30 days, based on the medical condition of a person.']
+                },
+                {
+                    'program_name':'Blood Purification Therapy – Raktamokshana',
+                    'duration': 5,
+                    'duration_units': 'days',
+                    'price': 25000,
+                    'desc': ['Raktamokshana is an effective blood purification therapy, in which carefully controlled removal of small quantities of blood is conducted to neutralise accumulated Pitta toxins of many blood-borne diseases.',
+                            'Raktamokshana decreases the quantum of enhanced Pitta dosha and thus the diseases caused by Pitta are also relieved.']
+                },
+
+                {
+                    'program_name':'Ayurvedic Healing Nasal Treatment – Nasya Therapy',
+                    'duration': 2,
+                    'duration_units': 'hours',
+                    'price': 12000,
+                    'desc': ['Nasya therapy is a process whereby the required medication is administered through the nostrils.Since the nose is the gateway of the head, this form of therapy is highly effective in treating a number of diseases related to the head area, if systematically performed.',
+                            'The therapy cleanses and opens the channels of the head, thereby improving the process of oxygenation (prana), which has a direct influence on the functioning of the brain.']
+                },
+                {
+                    'program_name':'Ayurveda Panchkarma for Pitta Detoxification – Virechana',
+                    'duration': 12,
+                    'duration_units': 'days',
+                    'price': 12000,
+                    'desc': ['Virechana is the second Pradhana karma by the virtue of which Pitta dosha is removed from the body system, particularly the GI tract.',
+                            'Like in the other Ayurvedic treatments and therapies, the Virechana is given after properly judging the type of disease and tolerance of the patient. Normally this karma is performed in the diseases of Alimentary canal like chronic constipation, indigestion, anorexia, worm infection etc. Purgation is given with care in specific amounts according to aggravated doshas.']
+                },
+                {
+                    'program_name':'Ayurvedic Emesis Therapy – Vamana',
+                    'duration': 10,
+                    'duration_units': 'days',
+                    'price': 12000,
+                    'desc': ['One of the Panchakarma procedures is a medicated emesis therapy, it cleanses Kapha toxins collected in the body and decongests the respiratory tract',
+                    'Daily treatments are administered to loosen and mobilise the toxins and to finally eliminate them, this therapy takes eight to ten days.']
+                }
+            ],
+        'reviews': ['The accommodation, therapy and food and the wonderful team of staff from the cleaners to the doctors and management makes one feel loved and pampered which is highly conducive to a healing environment. Will undoubtedly recommend this centre.',
+                'Its a best authentic ayurveda centers in mysore,  with panchakarma treatment. Ayurvedic treatment provided to many conditions, also provided with accommodation. People can experience a great ambience through out their visit.',
+                'Very clean place, beautifully run.'],
+        'location': ['Talavane Farm, Lalitadripura Rd, Chamundi Hill, Mysuru, Karnataka 570028', {'latitude': 12.2890385, 'longitude':76.6902045}],
+        'rating': 4.4,
+        'phone': 8212473437,
+        'website': "https://www.ayurindus.com/",
+        'attractions': ['St. Philomena's Cathedral','Chamundi hills steps parking','Mysore Palace']
+    },
+
+      {
+        'center_name': 'Soukya International Holistic Centre',
+        'description': ['Soukya aims to restore the natural balance of one’s body, mind, and soul through the ancient mixture of both ancient and modern medical techniques.','The center is spread over 30 acres of land in the east of Bengaluru. Soukya offers a wide range of therapies and medicines.'],
+        'programs':
+            [
+                {
+                    'program_name':'SWAAD - Ayurvedic Special',
+                    'duration': 7,
+                    'duration_units': 'days',
+                    'price': null,
+                    'desc': ['Ayurvedic head & body therapy and Shirodhara',
+                            'Swaad means aroma. This is for those who would like to experience what an Ayurvedic treatment would be like. This package offers a full-body Ayurvedic massage done by 2 therapists simultaneously (also referred to as the “four - hand massage”) and Shirodhara.']
+                },
+                {
+                    'program_name':'Panchakarma',
+                    'duration': 28,
+                    'duration_units': 'days',
+                    'price': null,
+                    'desc': ['The basic and ideal Ayurvedic Rejuvenation programme',
+                            'Pancha means five, and karma here means treatment. This ancient, authentic, time-tested Ayurvedic detoxification treatment is highly recommended. Annually for those above 40 and biannually for those above 60. This Special Rejuvenation protocol cleanses and revitalises the body to a new and better state of health.']
+                },
+                {
+                    'program_name':'PRAKRITHI SHAKTHI ESSENCE- Rejuvenation',
+                    'duration': 7,
+                    'duration_units': 'days',
+                    'price': null,
+                    'desc': ['Hot stone & Naturopathic therapies, Reflexology, Mud Packs, Hydrotherapy, Yoga, Pranayama & Cleansing diet',(7 Days-33 treatments)]
+                },
+                {
+                    'program_name':'PRAKRITHI SHAREERA- Weight Loss',
+                    'duration': 14,
+                    'duration_units': 'days',
+                    'price': null,
+                    'desc': ['(14 days-85 treatments)','Deep Tissue therapy, Hydrotherapy, Mud Packs, Auriculotherapy, Yoga & Weight loss diet']
+                },
+                {
+                    'program_name':'PRAKRITHI SUKHA SPECIAL- De-Stress',
+                    'duration': 14,
+                    'duration_units': 'days',
+                    'price': null,
+                    'desc': ['(14 days-81 treatments)','Hot stone & Naturopathic therapies, Acupuncture, Reflexology, Mud Packs, Acupressure, Hydrotherapy, Yoga & diet']
+                },
+                {
+                    'program_name':'SUNDAR - Anti- Ageing',
+                    'duration': 15,
+                    'duration_units': 'days',
+                    'price': null,
+                    'desc': ['(15 Days - 66 treatments)',
+                            'Sundar means attractive or beautiful. Our Special Ayurvedic formula addresses the ageing process in a most profound way and some of our guests have also experienced a revival of senses that they thought they had lost - such is the impact of the treatment. It includes the best of Ayurvedic and Naturopathic protocols, revitalising hydrotherapies, mud and herbal packs. (Unique Ayurvedic protocols, Revitalising Hydrotherapy, Mud and Herbal packs)']
+                }
+            ],
+        'reviews': ['I was treated like royalty while I was there with good access to my doctor.','The treatments are fantastic as are the staff','The dining hall is lovely and the food wonderful Indian cooking.'],
+        'location':['Soukya Road, Samethanahalli, Whitefield, Bengaluru, Karnataka 560067 ', {'latitude': 12.9939189, 'longitude': 77.7939552}],
+        'rating': 4.6,
+        'phone': 9845374400,
+        'website': "http://www.soukya.com/",
+        'attractions': ['HAL Heritage Centre and Aerospace Museum','Chinnappanahalli Lake Park','Nallurhalli Park']
+    },
+
+      {
+        'center_name': 'SwaSwara',
+        'description': ['A paradise of wellness and art together, SwaSwara is one of the top art resorts in India. The retreat center is located in Gokarna, the town of Arabian Sea.','The place is known for its spa and Ayurveda treatment in India. Besides, they also focus on providing a good diet to their guests. Moreover, art yoga is another specialty of the center. According to them, art is an alleyway of healing and self-discovery.'],
+        'programs':
+            [
+                {
+                    'program_name':'Swa Well-being',
+                    'duration': 4,
+                    'duration_units': 'days',
+                    'price': 125000,
+                    'desc': ['For a healthy holiday, Swa Wellbeing focuses on all-round wellbeing with Ayurveda relaxing body treatments, Yoga, meditation, art therapies and a healthier diet. Boasting a flexible regimen where one draws up one's own daily wellbeing schedule, it is a healthy & healing vacation.',
+                            'Over the course of a week, you will learn to relax, slow down and listen to the gentle murmurs of your inner 'Swara', or voice. This comprehensive programme is a beginner’s introduction to Yogic kriyas, Asanas, Yoga Nidra, Pranayama and meditation techniques. ']
+                }
+            ],
+        'reviews': ['We had a total cleansing and rejuvenating stay! Had a lot of quality family time! Doctors and therapists are good and service is excellent. There is a library and art gallery for those who want solitude. ',
+                    'Well maintained property, well mannered staff, have pool, spa, yoga and pottery classes. Really beautiful, heaven on earth gokarna and swaswara',
+                    'Ohm shaped land curve around the sea about a half kilometer with beautiful rock lumps. To reach shore climb hill via road and then get down cement built steps with sea view corner.'],
+        'location': ['Om Beach, Donibhail, Gokarn, Karnataka 581326 ', {'latitude': 14.5217219, 'longitude':74.3189039}],
+        'rating': 4.1,
+        'phone': 9513336924,
+        'website': "https://www.cghearth.com/swaswara",
+        'attractions': ['Hell Cliff','Om Beach Rock View','Om Beach Rock View']
+    }
+
+    
+]
